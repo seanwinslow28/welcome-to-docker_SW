@@ -17,4 +17,4 @@ config:
   secrets:
     - name: mongodb.connection_string
       env: MDB_MCP_CONNECTION_STRING
-      example: mongodb+srv://username:password@cluster.mongodb.net/myDatabase
+      example: mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@YOUR_CLUSTER.mongodb.net/YOUR_DATABASE
